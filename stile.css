@@ -92,8 +92,24 @@ nav ul li a:hover{
 	margin-bottom: 20px;
 
 }
+.conteudo22{
+	height: 350px;
+	border-bottom: 2px solid #5f2987;
+	width: 710px;
+	float: left;
+	margin-bottom: 20px;
+
+}
 .conteudo2{
 	height: 420px;
+	border-bottom: 2px solid #5f2987;
+	width: 710px;
+	float: left;
+	margin-bottom: 20px;
+
+}
+.conteudo3{
+	height: 450px;
 	border-bottom: 2px solid #5f2987;
 	width: 710px;
 	float: left;
@@ -110,6 +126,22 @@ aside{
 }
 .a2 {
 	height: 420px;
+	border-bottom: 2px solid #5f2987;
+	top: 160;
+	width: 350px;
+	float: right;
+	
+}
+.a22 {
+	height: 350px;
+	border-bottom: 2px solid #5f2987;
+	top: 160;
+	width: 350px;
+	float: right;
+	
+}
+.a3 {
+	height: 450px;
 	border-bottom: 2px solid #5f2987;
 	top: 160;
 	width: 350px;
